@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BEBA7-B7F1-4F88-8A7A-B2E03431F299}|DesafioBackEnd\\DesafioBackEnd.WebApi.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend\\desafiobackend.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4F4BEBA7-B7F1-4F88-8A7A-B2E03431F299}|DesafioBackEnd\\DesafioBackEnd.WebApi.csproj|solutionrelative:desafiobackend\\desafiobackend.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BEBA7-B7F1-4F88-8A7A-B2E03431F299}|DesafioBackEnd\\DesafioBackEnd.WebApi.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BEBA7-B7F1-4F88-8A7A-B2E03431F299}|DesafioBackEnd\\DesafioBackEnd.WebApi.csproj|solutionrelative:desafiobackend\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20EE52D-E0F9-4744-A063-3D42BB826996}|DesafioBackEnd.xUnitTest\\DesafioBackEnd.xUnitTest.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.xunittest\\statuspedidotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20EE52D-E0F9-4744-A063-3D42BB826996}|DesafioBackEnd.xUnitTest\\DesafioBackEnd.xUnitTest.csproj|solutionrelative:desafiobackend.xunittest\\statuspedidotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.bll\\models\\dtomodels\\statuspedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|solutionrelative:desafiobackend.bll\\models\\dtomodels\\statuspedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.bll\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|solutionrelative:desafiobackend.bll\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.bll\\profiles\\mapprofilesbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|solutionrelative:desafiobackend.bll\\profiles\\mapprofilesbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20EE52D-E0F9-4744-A063-3D42BB826996}|DesafioBackEnd.xUnitTest\\DesafioBackEnd.xUnitTest.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.xunittest\\pedidorestfultest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20EE52D-E0F9-4744-A063-3D42BB826996}|DesafioBackEnd.xUnitTest\\DesafioBackEnd.xUnitTest.csproj|solutionrelative:desafiobackend.xunittest\\pedidorestfultest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.bll\\models\\dtomodels\\buscarpedidoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|solutionrelative:desafiobackend.bll\\models\\dtomodels\\buscarpedidoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BEBA7-B7F1-4F88-8A7A-B2E03431F299}|DesafioBackEnd\\DesafioBackEnd.WebApi.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BEBA7-B7F1-4F88-8A7A-B2E03431F299}|DesafioBackEnd\\DesafioBackEnd.WebApi.csproj|solutionrelative:desafiobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.dal\\profiles\\mapprofilesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|solutionrelative:desafiobackend.dal\\profiles\\mapprofilesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.bll\\models\\dtomodels\\buscarpedidoitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|solutionrelative:desafiobackend.bll\\models\\dtomodels\\buscarpedidoitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.bll\\models\\databasemodels\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|solutionrelative:desafiobackend.bll\\models\\databasemodels\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.bll\\models\\databasemodels\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|solutionrelative:desafiobackend.bll\\models\\databasemodels\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.bll\\repositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|solutionrelative:desafiobackend.bll\\repositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.dal\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|solutionrelative:desafiobackend.dal\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.dal\\data\\abstractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|solutionrelative:desafiobackend.dal\\data\\abstractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20EE52D-E0F9-4744-A063-3D42BB826996}|DesafioBackEnd.xUnitTest\\DesafioBackEnd.xUnitTest.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.xunittest\\dbinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20EE52D-E0F9-4744-A063-3D42BB826996}|DesafioBackEnd.xUnitTest\\DesafioBackEnd.xUnitTest.csproj|solutionrelative:desafiobackend.xunittest\\dbinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.dal\\data\\efimcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|solutionrelative:desafiobackend.dal\\data\\efimcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.dal\\data\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82DE3FC-E620-43F7-933B-CD08CB94558E}|DesafioBackEnd.DAL\\DesafioBackEnd.DAL.csproj|solutionrelative:desafiobackend.dal\\data\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|c:\\users\\james\\documents\\projetos dev\\desafio-back-end\\desafiobackend\\desafiobackend.bll\\models\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AA707-94DD-4244-9AF6-7F6C7C1BF865}|DesafioBackEnd.BLL\\DesafioBackEnd.BLL.csproj|solutionrelative:desafiobackend.bll\\models\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesafioBackEnd.WebApi",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd\\DesafioBackEnd.WebApi.csproj",
+              "RelativeDocumentMoniker": "DesafioBackEnd\\DesafioBackEnd.WebApi.csproj",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd\\DesafioBackEnd.WebApi.csproj",
+              "RelativeToolTip": "DesafioBackEnd\\DesafioBackEnd.WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T13:56:24.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapProfilesDAL.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Profiles\\MapProfilesDAL.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.DAL\\Profiles\\MapProfilesDAL.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Profiles\\MapProfilesDAL.cs",
+              "RelativeToolTip": "DesafioBackEnd.DAL\\Profiles\\MapProfilesDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:50:14.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuscarPedidoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DTOModels\\BuscarPedidoResponse.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.BLL\\Models\\DTOModels\\BuscarPedidoResponse.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DTOModels\\BuscarPedidoResponse.cs",
+              "RelativeToolTip": "DesafioBackEnd.BLL\\Models\\DTOModels\\BuscarPedidoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:38:48.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SQLiteContext.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Data\\SQLiteContext.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.DAL\\Data\\SQLiteContext.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Data\\SQLiteContext.cs",
+              "RelativeToolTip": "DesafioBackEnd.DAL\\Data\\SQLiteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:10:57.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EFIMContext.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Data\\EFIMContext.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.DAL\\Data\\EFIMContext.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Data\\EFIMContext.cs",
+              "RelativeToolTip": "DesafioBackEnd.DAL\\Data\\EFIMContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:10:40.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AbstractDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Data\\AbstractDbContext.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.DAL\\Data\\AbstractDbContext.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Data\\AbstractDbContext.cs",
+              "RelativeToolTip": "DesafioBackEnd.DAL\\Data\\AbstractDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:10:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd\\Program.cs",
+              "RelativeToolTip": "DesafioBackEnd\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:09:42.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DataBaseModels\\Item.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.BLL\\Models\\DataBaseModels\\Item.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DataBaseModels\\Item.cs",
+              "RelativeToolTip": "DesafioBackEnd.BLL\\Models\\DataBaseModels\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:09:24.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\Enums\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.BLL\\Models\\Enums\\StatusEnum.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\Enums\\StatusEnum.cs",
+              "RelativeToolTip": "DesafioBackEnd.BLL\\Models\\Enums\\StatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:09:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Repositories\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.BLL\\Repositories\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Repositories\\IPedidoRepository.cs",
+              "RelativeToolTip": "DesafioBackEnd.BLL\\Repositories\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:08:10.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "DesafioBackEnd\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:51:31.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.DAL\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.DAL\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "DesafioBackEnd.DAL\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:30:40.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbInMemory.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.xUnitTest\\DbInMemory.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.xUnitTest\\DbInMemory.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.xUnitTest\\DbInMemory.cs",
+              "RelativeToolTip": "DesafioBackEnd.xUnitTest\\DbInMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:27:46.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DataBaseModels\\Pedido.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.BLL\\Models\\DataBaseModels\\Pedido.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DataBaseModels\\Pedido.cs",
+              "RelativeToolTip": "DesafioBackEnd.BLL\\Models\\DataBaseModels\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:02:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.BLL\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Services\\PedidoService.cs",
+              "RelativeToolTip": "DesafioBackEnd.BLL\\Services\\PedidoService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:39:00.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusPedidoTest.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.xUnitTest\\StatusPedidoTest.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.xUnitTest\\StatusPedidoTest.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.xUnitTest\\StatusPedidoTest.cs",
+              "RelativeToolTip": "DesafioBackEnd.xUnitTest\\StatusPedidoTest.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwF0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:38:29.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatusPedidoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DTOModels\\StatusPedidoRequest.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.BLL\\Models\\DTOModels\\StatusPedidoRequest.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DTOModels\\StatusPedidoRequest.cs",
+              "RelativeToolTip": "DesafioBackEnd.BLL\\Models\\DTOModels\\StatusPedidoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:44:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapProfilesBLL.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Profiles\\MapProfilesBLL.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.BLL\\Profiles\\MapProfilesBLL.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Profiles\\MapProfilesBLL.cs",
+              "RelativeToolTip": "DesafioBackEnd.BLL\\Profiles\\MapProfilesBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:50:46.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoRestfulTest.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.xUnitTest\\PedidoRestfulTest.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.xUnitTest\\PedidoRestfulTest.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.xUnitTest\\PedidoRestfulTest.cs",
+              "RelativeToolTip": "DesafioBackEnd.xUnitTest\\PedidoRestfulTest.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwFMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:51:32.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuscarPedidoItemResponse.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DTOModels\\BuscarPedidoItemResponse.cs",
+              "RelativeDocumentMoniker": "DesafioBackEnd.BLL\\Models\\DTOModels\\BuscarPedidoItemResponse.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\Projetos DEV\\desafio-back-end\\DesafioBackEnd\\DesafioBackEnd.BLL\\Models\\DTOModels\\BuscarPedidoItemResponse.cs",
+              "RelativeToolTip": "DesafioBackEnd.BLL\\Models\\DTOModels\\BuscarPedidoItemResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:40:58.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\bin\Debug\net8.0\DesafioBackEnd.BLL.deps.json
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\bin\Debug\net8.0\DesafioBackEnd.BLL.dll
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\bin\Debug\net8.0\DesafioBackEnd.BLL.pdb
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\DesafioBackEnd.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\DesafioBackEnd.BLL.AssemblyInfoInputs.cache
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\DesafioBackEnd.BLL.AssemblyInfo.cs
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\DesafioBackEnd.BLL.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\DesafioBackEnd.BLL.sourcelink.json
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\DesafioBackEnd.BLL.dll
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\refint\DesafioBackEnd.BLL.dll
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\DesafioBackEnd.BLL.pdb
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\ref\DesafioBackEnd.BLL.dll
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.BLL\obj\Debug\net8.0\DesafioBackEnd.BLL.csproj.AssemblyReference.cache

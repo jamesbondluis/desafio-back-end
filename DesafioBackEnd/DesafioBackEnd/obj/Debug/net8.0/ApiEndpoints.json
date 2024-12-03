@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "DesafioBackEnd.WebApi.Controllers.PedidoController",
+    "Method": "GetAll",
+    "RelativePath": "api/pedido",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioBackEnd.WebApi.Controllers.PedidoController",
+    "Method": "Add",
+    "RelativePath": "api/pedido",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itens",
+        "Type": "System.Collections.Generic.List\u00601[[DesafioBackEnd.BLL.Models.DTOModels.ItemCriarPedidoRequest, DesafioBackEnd.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioBackEnd.WebApi.Controllers.PedidoController",
+    "Method": "Update",
+    "RelativePath": "api/pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "DesafioBackEnd.BLL.Models.DTOModels.AlterarPedidoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioBackEnd.WebApi.Controllers.PedidoController",
+    "Method": "GetById",
+    "RelativePath": "api/pedido/{pedido}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioBackEnd.WebApi.Controllers.PedidoController",
+    "Method": "Delete",
+    "RelativePath": "api/pedido/{pedido}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioBackEnd.WebApi.Controllers.PedidoController",
+    "Method": "BuscarStatusPedido",
+    "RelativePath": "api/status",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedidoRequest",
+        "Type": "DesafioBackEnd.BLL.Models.DTOModels.StatusPedidoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

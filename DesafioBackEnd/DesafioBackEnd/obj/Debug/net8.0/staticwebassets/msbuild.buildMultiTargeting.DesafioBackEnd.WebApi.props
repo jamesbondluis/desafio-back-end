@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DesafioBackEnd.WebApi.props" />
+</Project>

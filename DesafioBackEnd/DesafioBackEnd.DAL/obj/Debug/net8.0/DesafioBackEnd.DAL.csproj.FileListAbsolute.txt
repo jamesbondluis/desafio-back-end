@@ -1,0 +1,16 @@
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\bin\Debug\net8.0\DesafioBackEnd.DAL.deps.json
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\bin\Debug\net8.0\DesafioBackEnd.DAL.dll
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\bin\Debug\net8.0\DesafioBackEnd.DAL.pdb
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\bin\Debug\net8.0\DesafioBackEnd.BLL.dll
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\bin\Debug\net8.0\DesafioBackEnd.BLL.pdb
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\DesafioBackEnd.DAL.csproj.AssemblyReference.cache
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\DesafioBackEnd.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\DesafioBackEnd.DAL.AssemblyInfoInputs.cache
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\DesafioBackEnd.DAL.AssemblyInfo.cs
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\DesafioBackEnd.DAL.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\DesafioBackEnd.DAL.sourcelink.json
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\DesafioB.00E2338D.Up2Date
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\DesafioBackEnd.DAL.dll
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\refint\DesafioBackEnd.DAL.dll
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\DesafioBackEnd.DAL.pdb
+C:\Users\james\Documents\Projetos DEV\desafio-back-end\DesafioBackEnd\DesafioBackEnd.DAL\obj\Debug\net8.0\ref\DesafioBackEnd.DAL.dll
